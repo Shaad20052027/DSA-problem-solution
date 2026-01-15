@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0547-number-of-provinces](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
@@ -45,8 +46,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Binary Tree
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0129-sum-root-to-leaf-numbers) |
 <!---LeetCode Topics End-->
