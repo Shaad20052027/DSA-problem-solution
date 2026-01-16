@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0112-path-sum) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0547-number-of-provinces) |
 ## Union Find
@@ -48,12 +50,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0297-serialize-and-deserialize-binary-tree) |
