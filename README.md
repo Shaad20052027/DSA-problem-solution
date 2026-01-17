@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0050-powx-n) |
+| [0143-reorder-list](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0143-reorder-list) |
 ## String
 |  |
 | ------- |
@@ -72,4 +73,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Linked List
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0143-reorder-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0143-reorder-list) |
+## Stack
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
