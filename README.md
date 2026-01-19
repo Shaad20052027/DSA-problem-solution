@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0143-reorder-list](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0143-reorder-list) |
 | [0189-rotate-array](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0189-rotate-array) |
 ## Stack
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0053-maximum-subarray) |
 | [0189-rotate-array](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0189-rotate-array) |
 ## Divide and Conquer
