@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0008-string-to-integer-atoi) |
+| [0125-valid-palindrome](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0125-valid-palindrome) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0344-reverse-string) |
 ## Bit Manipulation
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0143-reorder-list) |
 | [0189-rotate-array](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0344-reverse-string) |
