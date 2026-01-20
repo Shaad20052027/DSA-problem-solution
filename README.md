@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0008-string-to-integer-atoi) |
+| [0014-longest-common-prefix](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0053-maximum-subarray) |
 | [0189-rotate-array](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0189-rotate-array) |
@@ -124,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0242-valid-anagram) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
