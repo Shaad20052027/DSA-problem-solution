@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0994-rotting-oranges) |
 ## Union Find
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0053-maximum-subarray) |
 | [0189-rotate-array](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0189-rotate-array) |
 | [0733-flood-fill](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0994-rotting-oranges) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -137,4 +139,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
