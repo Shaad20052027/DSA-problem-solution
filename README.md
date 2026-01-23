@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0112-path-sum](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0112-path-sum) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0542-01-matrix](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0994-rotting-oranges) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0053-maximum-subarray) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0542-01-matrix](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0542-01-matrix) |
 | [0907-sum-of-subarray-minimums](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0907-sum-of-subarray-minimums) |
 ## Tree
 |  |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0053-maximum-subarray) |
 | [0189-rotate-array](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0189-rotate-array) |
+| [0542-01-matrix](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0907-sum-of-subarray-minimums) |
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0994-rotting-oranges) |
 ## Monotonic Stack
