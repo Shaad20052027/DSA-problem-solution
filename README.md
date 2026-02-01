@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Union Find
 |  |
 | ------- |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0907-sum-of-subarray-minimums) |
 | [0994-rotting-oranges](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Monotonic Stack
 |  |
 | ------- |
