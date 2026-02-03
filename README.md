@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/1631-path-with-minimum-effort) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/1631-path-with-minimum-effort) |
 ## Union Find
 |  |
 | ------- |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [1631-path-with-minimum-effort](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/1631-path-with-minimum-effort) |
 ## Linked List
 |  |
 | ------- |
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/1631-path-with-minimum-effort) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -165,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
 | ------- |
@@ -192,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/1631-path-with-minimum-effort) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -208,4 +214,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0802-find-eventual-safe-states) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
