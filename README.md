@@ -57,11 +57,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0189-rotate-array) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1922-count-good-numbers](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/1922-count-good-numbers) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0143-reorder-list) |
+| [1922-count-good-numbers](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/1922-count-good-numbers) |
 ## String
 |  |
 | ------- |
