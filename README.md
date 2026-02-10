@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0566-reshape-the-matrix) |
+| [0724-find-pivot-index](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0867-transpose-matrix) |
@@ -243,4 +244,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
