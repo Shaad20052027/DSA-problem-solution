@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0802-find-eventual-safe-states) |
+| [0993-cousins-in-binary-tree](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0993-cousins-in-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/1631-path-with-minimum-effort) |
 ## Breadth-First Search
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0802-find-eventual-safe-states) |
+| [0993-cousins-in-binary-tree](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0993-cousins-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0993-cousins-in-binary-tree](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0993-cousins-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -136,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0993-cousins-in-binary-tree](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0993-cousins-in-binary-tree) |
 ## Design
 |  |
 | ------- |
