@@ -19,17 +19,16 @@ class Solution {
         height(root);
         return diameter - 1;
     }
+
     int height(TreeNode node){
         if(node == null){
             return 0;
         }
+        int leftheight = height(node.left);
+        int rightheight = height(node.right);
 
-        int left = height(node.left);
-        int right = height(node.right);
-
-        int dia = left + right + 1;
-        diameter = Math.max(diameter,dia);
-
-        return Math.max(left,right) + 1;
+        int dia = leftheight + rightheight + 1;
+        diameter = Math.max(dia,diameter);
+        return Math.max(leftheight,rightheight) + 1;
     }
 }
