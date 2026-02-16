@@ -14,13 +14,18 @@
  * }
  */
 class Solution {
+    int ans = Integer.MIN_VALUE;
     public boolean hasPathSum(TreeNode root, int targetSum) {
-        if(root == null){
+        return helper(root,targetSum);
+    }
+    boolean helper(TreeNode node, int target){
+        if(node == null){
             return false;
         }
-        if(root.val == targetSum && root.left == null && root.right == null){
+        
+        if(node.left == null && node.right == null && node.val == target){
             return true;
         }
-        return hasPathSum(root.left,targetSum - root.val) || hasPathSum(root.right,targetSum - root.val);
+        return helper(node.left,target - node.val) || helper(node.right, target - node.val);
     }
 }
