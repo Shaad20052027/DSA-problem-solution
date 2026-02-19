@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0130-surrounded-regions](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0130-surrounded-regions) |
 | [0189-rotate-array](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0189-rotate-array) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0542-01-matrix](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0566-reshape-the-matrix) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0001-two-sum) |
 | [0127-word-ladder](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0242-valid-anagram) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0560-subarray-sum-equals-k) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Union-Find
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0242-valid-anagram) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Trie
 |  |
