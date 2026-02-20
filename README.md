@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0130-surrounded-regions) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0226-invert-binary-tree) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0226-invert-binary-tree) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0130-surrounded-regions](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0130-surrounded-regions) |
 | [0189-rotate-array](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0200-number-of-islands) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0485-max-consecutive-ones) |
 | [0542-01-matrix](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0542-01-matrix) |
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/1020-number-of-enclaves) |
@@ -279,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0542-01-matrix) |
 | [0566-reshape-the-matrix](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0566-reshape-the-matrix) |
 | [0733-flood-fill](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0733-flood-fill) |
