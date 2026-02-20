@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0130-surrounded-regions) |
 | [0189-rotate-array](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0189-rotate-array) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0485-max-consecutive-ones](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0485-max-consecutive-ones) |
 | [0542-01-matrix](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0566-reshape-the-matrix) |
