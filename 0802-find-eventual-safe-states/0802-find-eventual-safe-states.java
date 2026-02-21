@@ -1,41 +1,57 @@
 class Solution {
     public List<Integer> eventualSafeNodes(int[][] graph) {
-        ArrayList<ArrayList<Integer>> adj = new ArrayList<ArrayList<Integer>>();
-        int V = graph.length;
-        for(int i = 0; i < V; i++){
+        int n = graph.length;
+
+        ArrayList<ArrayList<Integer>> adj = new ArrayList<>();
+        for(int i = 0; i < n; i++){
             adj.add(new ArrayList<>());
         }
-        for(int u = 0; u < V; u++){
-            for(int v : graph[u]){
-                adj.get(v).add(u);
+
+        // Correct graph construction
+        for(int i = 0; i < n; i++){
+            for(int v : graph[i]){
+                adj.get(i).add(v);
             }
         }
 
-        Queue<Integer> queue = new LinkedList<>();
-        int[] indegree = new int[V];
-        for(int i = 0; i < V; i++){
-            for(int it : adj.get(i)){
-                indegree[it]++;
+        int[] vis = new int[n];
+        int[] pathvis = new int[n];
+        int[] check = new int[n];
+
+        for(int i = 0; i < n; i++){
+            if(vis[i] == 0){
+                dfs(i, vis, pathvis, adj, check);
             }
         }
-        for(int i = 0; i < V; i++){
-            if(indegree[i] == 0){
-                queue.add(i);
+
+        List<Integer> safe = new ArrayList<>();
+        for(int i = 0; i < n; i++){
+            if(check[i] == 1){
+                safe.add(i);
             }
         }
-        ArrayList<Integer> topo = new ArrayList<>();
-        while(!queue.isEmpty()){
-            int node = queue.peek();
-            queue.remove();
-            topo.add(node);
-            for(int it : adj.get(node)){
-                indegree[it]--;
-                if(indegree[it] == 0){
-                    queue.add(it);
-                }
+
+        return safe;
+    }
+
+    public boolean dfs(int node, int[] vis, int[] pathvis, 
+                       ArrayList<ArrayList<Integer>> adj, int[] check){
+
+        vis[node] = 1;
+        pathvis[node] = 1;
+
+        for(int it : adj.get(node)){
+            if(vis[it] == 0){
+                if(dfs(it, vis, pathvis, adj, check))
+                    return true;
+            }
+            else if(pathvis[it] == 1){
+                return true;
             }
         }
-        Collections.sort(topo);
-        return topo;
+
+        check[node] = 1;
+        pathvis[node] = 0;
+        return false;
     }
 }
