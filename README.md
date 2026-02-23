@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0143-reorder-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0145-binary-tree-postorder-traversal) |
+| [0496-next-greater-element-i](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0907-sum-of-subarray-minimums) |
 ## Array
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0200-number-of-islands) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0496-next-greater-element-i) |
 | [0542-01-matrix](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0566-reshape-the-matrix) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0560-subarray-sum-equals-k) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Union-Find
@@ -297,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0496-next-greater-element-i) |
 | [0907-sum-of-subarray-minimums](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0907-sum-of-subarray-minimums) |
 ## Simulation
 |  |
