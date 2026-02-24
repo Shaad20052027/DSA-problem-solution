@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0645-set-mismatch](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0645-set-mismatch) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Dynamic Programming
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0566-reshape-the-matrix) |
+| [0645-set-mismatch](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0735-asteroid-collision) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0645-set-mismatch) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Union-Find
 |  |
@@ -279,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0645-set-mismatch](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0645-set-mismatch) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shaad20052027/DSA-problem-solution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Trie
 |  |
