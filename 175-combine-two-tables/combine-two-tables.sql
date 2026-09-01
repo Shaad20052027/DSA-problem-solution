@@ -1,5 +1,10 @@
-# Write your MySQL query statement below
-select p.firstname,p.lastname,a.city,a.state
-FROM person p
-left join Address a
-ON p.personId=a.personId
+WITH new_table AS (
+    SELECT p.firstName,
+           p.lastName,
+           a.city,
+           a.state
+    FROM Person p
+    LEFT JOIN Address a
+      ON p.personId = a.personId
+)
+SELECT * FROM new_table;
