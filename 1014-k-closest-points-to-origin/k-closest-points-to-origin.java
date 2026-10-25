@@ -1,10 +1,9 @@
 class Solution {
     public int[][] kClosest(int[][] points, int k) {
-        PriorityQueue<int[]> pq = new PriorityQueue<>((a,b) -> squareDis(b) - squareDis(a));
-
-        for(int[] p  :points){
-            pq.add(p);
-            while(pq.size() > k){
+        PriorityQueue<int[]> pq = new PriorityQueue<>((a, b) -> square(b) - square(a));
+        for(int[] p : points){
+            pq.offer(p);
+            if(pq.size() > k){
                 pq.poll();
             }
         }
@@ -14,7 +13,7 @@ class Solution {
         }
         return res;
     }
-    public int squareDis(int[] p){
+    int square(int[] p){
         return p[0] * p[0] + p[1] * p[1];
     }
 }
