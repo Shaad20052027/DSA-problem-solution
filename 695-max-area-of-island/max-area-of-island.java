@@ -1,49 +1,54 @@
-class Pair{
+class Pair {
     int row;
     int col;
-    Pair(int row, int col){
+
+    Pair(int row, int col) {
         this.row = row;
         this.col = col;
     }
 }
+
 class Solution {
     public int maxAreaOfIsland(int[][] grid) {
         int n = grid.length;
         int m = grid[0].length;
         int[][] vis = new int[n][m];
-        int maxArea = 0;
-        for(int i = 0; i < n; i++){
-            for(int j = 0; j < m; j++){
-                if(vis[i][j] == 0 && grid[i][j] == 1){
-                    maxArea = Math.max(maxArea, bfs(i, j, vis, grid));
+        Queue<Pair> q = new LinkedList<>();
+        int cnt = 0;int maxArea = 0;
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < m; j++) {
+                if (vis[i][j] == 0 && grid[i][j] == 1) {
+                    maxArea = Math.max(maxArea, bfs(i, j, q, grid, vis));
                 }
             }
         }
         return maxArea;
     }
-    int bfs(int row, int col, int[][] vis, int[][] grid){
-        vis[row][col] = 1;
+
+    public int bfs(int row, int col, Queue<Pair> q, int[][] grid, int[][] vis) {
         int n = grid.length;
         int m = grid[0].length;
-        int[] drow = {-1, 0, 1, 0};
-        int[] dcol = {0, 1, 0, -1};
-        Queue<Pair> q = new LinkedList<>();
-        q.offer(new Pair(row, col));
-        int area = 0;
-        while(!q.isEmpty()){
+        int[] drow = { -1, 0, 1, 0 };
+        int[] dcol = { 0, -1, 0, 1 };
+        q.add(new Pair(row, col));
+        vis[row][col] = 1;
+        int cnt = 0;
+        int max = 0;
+        while (!q.isEmpty()) {
             int r = q.peek().row;
             int c = q.peek().col;
-            q.remove();
-            area++;
-            for(int i = 0; i < 4; i++){
+            cnt++;
+            max = Math.max(cnt, max);
+            q.poll();
+            for (int i = 0; i < 4; i++) {
                 int nrow = drow[i] + r;
                 int ncol = dcol[i] + c;
-                if(nrow >= 0 && ncol >= 0 && ncol < m && nrow < n && vis[nrow][ncol] == 0 && grid[nrow][ncol] == 1){
+                if (nrow >= 0 && nrow < n && ncol >= 0 && ncol < m && vis[nrow][ncol] == 0 && grid[nrow][ncol] == 1) {
+                    q.add(new Pair(nrow, ncol));
                     vis[nrow][ncol] = 1;
-                    q.offer(new Pair(nrow, ncol));
                 }
             }
         }
-        return area;
+        return max;
     }
 }
