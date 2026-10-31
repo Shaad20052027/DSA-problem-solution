@@ -1,23 +1,50 @@
+
 class Solution {
     public String longestPalindrome(String s) {
-        int maxlen = 0;
+        int n = s.length();
+        int maxLen = 0;
         int start = 0;
-        for(int i = 0; i < s.length(); i++){
-            int odd = expands(s, i - 1, i + 1);
-            int even = expands(s, i, i + 1);
-            int best = Math.max(odd,even);
-            if(best > maxlen){
-                maxlen = best;
-                start = i - (best - 1)/2;
+
+        int[][] dp = new int[n][n];
+
+        for(int[] row : dp){
+            Arrays.fill(row, -1);
+        }
+
+        for(int i = 0; i < n; i++){
+            for(int j = i; j < n; j++){
+
+                if(solve(i, j, s, dp)){
+                    int len = j - i + 1;
+
+                    if(len > maxLen){
+                        maxLen = len;
+                        start = i;
+                    }
+                }
             }
         }
-        return s.substring(start,start + maxlen);
+
+        return s.substring(start, start + maxLen);
     }
-    int expands(String s, int left, int right){
-        while(left >= 0 && right < s.length() && s.charAt(left) == s.charAt(right)){
-            left = left - 1;
-            right = right + 1;
-        } 
-        return right - left - 1;
+
+    boolean solve(int i, int j, String s, int[][] dp){
+
+        if(i >= j){
+            return true;
+        }
+
+        if(dp[i][j] != -1){
+            return dp[i][j] == 1;
+        }
+
+        if(s.charAt(i) == s.charAt(j)){
+            dp[i][j] = solve(i + 1, j - 1, s, dp) ? 1 : 0;
+        }
+        else{
+            dp[i][j] = 0;
+        }
+
+        return dp[i][j] == 1;
     }
 }
